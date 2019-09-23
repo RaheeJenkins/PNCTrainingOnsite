@@ -41,4 +41,5 @@ public class TestClass {
         System.out.println("Report URL: "+ driver.getCapabilities().getCapability("reportUrl"));
         driver.quit();
     }
+
 }
